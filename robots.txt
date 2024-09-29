@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lecentri.github.io/sitemap.html.gz
+Sitemap: https://lecentri.github.io/app/sitemap.html.gz
+Sitemap: https://lecentri.github.io/assets/sitemap.html.gz
+Sitemap: https://lecentri.github.io/css/sitemap.html.gz
+Sitemap: https://lecentri.github.io/data/sitemap.html.gz
+Sitemap: https://lecentri.github.io/includes/sitemap.html.gz
+Sitemap: https://lecentri.github.io/item/sitemap.html.gz
+Sitemap: https://lecentri.github.io/src/sitemap.html.gz
